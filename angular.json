@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "learn-english-angular"
+    }
+  },
+  "defaultProject": "learn-english-angular",
+  "cli": {
+    "analytics": "c546d16d-74dd-4f83-b5a8-534b2de4a0c1"
+  }
 }
