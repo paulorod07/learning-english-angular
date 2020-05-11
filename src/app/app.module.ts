@@ -4,11 +4,17 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { TopComponent } from './top/top.component';
+import { PanelComponent } from './panel/panel.component';
+import { TriesComponent } from './tries/tries.component';
+import { ProgressComponent } from './progress/progress.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    TopComponent
+    TopComponent,
+    PanelComponent,
+    TriesComponent,
+    ProgressComponent
   ],
   imports: [
     BrowserModule,
